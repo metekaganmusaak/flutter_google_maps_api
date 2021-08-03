@@ -1,0 +1,24 @@
+{
+    "coordinates": [
+        {
+            "directionWay": "start",
+            "latitude": 21,
+            "longitude": 21
+        },
+        {
+            "directionWay": "start",
+            "latitude": 14,
+            "longitude": 14
+        },
+        {
+            "directionWay": "finish",
+            "latitude": 54,
+            "longitude": 54
+        },
+        {
+            "directionWay": "finish",
+            "latitude": 65,
+            "longitude": 65
+        }
+    ]
+}
